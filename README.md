@@ -22,6 +22,7 @@ _Description_:  Created detailed reports using MS-Excel, including Pivot Tables 
 _Technologies_:  MS-Excel, Pivot Table, Power Pivot
 
 _Key Features_: 
+
 1.Reports based upon the template provide by stakeholders.
 
 2.Monthly and yearly sales comparisons
