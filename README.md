@@ -12,11 +12,11 @@ Proficient in data cleaning, analysis, and automating tasks using Python.
 
 # Projects
 ### Sales and Finance Report
-_Domain_: Sales
-_Date_: 11/2024
-_Description_: Created detailed reports using MS-Excel, including Pivot Tables and Power Pivot, to provide monthly and yearly sales comparisons.
-_Technologies_: MS-Excel, Pivot Table, Power Pivot
-_Key Features_:
+_Domain_:  Sales
+_Date_:  11/2024
+_Description_:  Created detailed reports using MS-Excel, including Pivot Tables and Power Pivot, to provide monthly and yearly sales comparisons.
+_Technologies_:  MS-Excel, Pivot Table, Power Pivot
+_Key Features_: 
 1.Reports based upon the template provide by stakeholders.
 2.Monthly and yearly sales comparisons
 
