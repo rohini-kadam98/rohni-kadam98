@@ -25,4 +25,3 @@ _Key Features_:
 1.Reports based upon the template provide by stakeholders.
 2.Monthly and yearly sales comparisons
 
-# Languages/Tools
