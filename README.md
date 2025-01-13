@@ -11,7 +11,7 @@ Experienced in creating interactive dashboards and visualizations for data insig
 Proficient in data cleaning, analysis, and automating tasks using Python.
 
 # Projects
-### Sales and Finance Report
+[Sales and Finance Report](https://github.com/rohini-kadam98/Sales-Analysis-E-commerce-Dataset-)
 _Domain_:  Sales
 
 _Date_:  11/2024
